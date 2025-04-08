@@ -1,6 +1,6 @@
 # Dart Activities
 
-A sample command-line application to demonstrate Dart programming concepts. This project includes an entry point in `bin/`, library code in `lib/`, and example unit tests in `test/`.
+A sample command-line application to demonstrate Dart programming concepts.
 
 ## Features
 - Command-line application structure.
